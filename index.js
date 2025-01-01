@@ -1,6 +1,6 @@
 //
 // index.js
-// @trenskow/signed-stream
+// @trenskow/atomic-write-stream
 //
 // Created by Kristian Trenskow on 2025/01/01
 // See license in LICENSE.
