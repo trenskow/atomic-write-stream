@@ -1,6 +1,6 @@
 {
   "name": "@trenskow/atomic-write-stream",
-  "version": "0.1.16",
+  "version": "0.1.17",
   "description": "A writeable file stream that writes atomically.",
   "main": "index.js",
   "type": "module",
